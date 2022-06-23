@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2ECFC5C3-BC53-4904-9932-B36167EA96C6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15FFADA6-2C76-4252-A398-5D5F708990DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wwdc2022/PokeAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchAllPokemon()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15FFADA6-2C76-4252-A398-5D5F708990DC - 610a400c9e5bc9d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;wwdc2022.Pokemon&gt;) -&gt; Combine.Publishers.Collect&lt;Combine.Publishers.FlatMap&lt;Combine.AnyPublisher&lt;wwdc2022.PokemonDetail, wwdc2022.Error&gt;, Combine.Publishers.SetFailureType&lt;Combine.Publishers.Sequence&lt;Swift.Array&lt;Combine.AnyPublisher&lt;wwdc2022.PokemonDetail, wwdc2022.Error&gt;&gt;, Swift.Never&gt;, wwdc2022.Error&gt;&gt;&gt; in wwdc2022.PokeAPI.fetchAllPokemon() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;wwdc2022.PokemonDetail&gt;, wwdc2022.Error&gt;"
+                  moduleName = "wwdc2022"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mathias.vanhoutte/Documents/git/wwdc/2022/wwdc2022/wwdc2022/PokeAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "15FFADA6-2C76-4252-A398-5D5F708990DC - c4ef12c5e57b1e13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (wwdc2022.Pokemon) -&gt; Combine.AnyPublisher&lt;wwdc2022.PokemonDetail, wwdc2022.Error&gt; in closure #1 (Swift.Array&lt;wwdc2022.Pokemon&gt;) -&gt; Combine.Publishers.Collect&lt;Combine.Publishers.FlatMap&lt;Combine.AnyPublisher&lt;wwdc2022.PokemonDetail, wwdc2022.Error&gt;, Combine.Publishers.SetFailureType&lt;Combine.Publishers.Sequence&lt;Swift.Array&lt;Combine.AnyPublisher&lt;wwdc2022.PokemonDetail, wwdc2022.Error&gt;&gt;, Swift.Never&gt;, wwdc2022.Error&gt;&gt;&gt; in wwdc2022.PokeAPI.fetchAllPokemon() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;wwdc2022.PokemonDetail&gt;, wwdc2022.Error&gt;"
+                  moduleName = "wwdc2022"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mathias.vanhoutte/Documents/git/wwdc/2022/wwdc2022/wwdc2022/PokeAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
